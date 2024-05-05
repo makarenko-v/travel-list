@@ -1,23 +1,3 @@
-# How to use this template
+# Travel List
 
-### Install [degit](https://github.com/Rich-Harris/degit)
-```
-npm install -g degit
-```
-
-### Clone this template
-```
-degit makarenko-v/react-ts-simple-template
-```
-
-### Install dependencies
-```
-npm install
-```
-
-### Run the dev server
-```
-npm run dev
-```
-
-### Enjoy!
+![Screencastfrom2024-05-0520-36-06-ezgif com-video-to-gif-converter](https://github.com/makarenko-v/travel-list/assets/168454838/ef8194d4-855e-45bb-a955-34c3237ece28)
