@@ -23,6 +23,7 @@ export function PackingList({
       <ul>
         {items.map((item) => (
           <ListItem
+            key={item.name}
             item={item}
             onToggled={onItemToggled}
             onDeleted={onItemDeleted}

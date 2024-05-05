@@ -8,7 +8,7 @@ interface ItemProps {
 
 export function ListItem({ item, onToggled, onDeleted }: ItemProps) {
   return (
-    <li key={item.name}>
+    <li>
       <input
         type="checkbox"
         onChange={() => onToggled(item.name)}
